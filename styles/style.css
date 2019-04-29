@@ -1,0 +1,48 @@
+body{
+  background-color: #2a2a72;
+  background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+  }
+
+h1 {
+   font-weight: bold;
+   text-align: center;
+   font-family: helvetica;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 30px;
+   line-height: 38px;
+   color: #ffffff;
+ }
+
+#addToDoForm {
+  font-weight: bold;
+  text-align: left;
+  font-family: helvetica;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  padding: 1em
+}
+
+#toDoList{
+  text-align: left;
+  font-family: helvetica;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  list-style: none;
+  padding: 1em;
+}
+
+button[type=submit] {
+    color:#08233e;
+    font-family: helvetica;
+    font-size:20px;
+    border-radius: 5px;
+    background-color: white;
+
+  }
