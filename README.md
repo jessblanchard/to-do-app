@@ -10,5 +10,5 @@ This exercise challenged me to learn to look at and manipulate the HTML in a new
 
 This project is complete and no further work is planned. 
 
-![To Do App Screen](Readme-images/todoapp-screenshot.png "screenshot of to do app" )
+![To Do App Screen](todoapp-screenshot.png "screenshot of to do app" )
 
